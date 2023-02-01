@@ -1,0 +1,45 @@
+20230131	23:27:06	0f04b0c8-f242-4181-8e61-82e123cd480d	Error Not allowed by cors
+20230131	23:48:20	2d5e5c15-2572-45d7-9067-a4923b6f53e2	Error ENOENT: no such file or directory, stat '/root/webDev/Course/ExpressJS/Intro/subdir/views/index.html'
+20230131	23:49:27	12b63039-1011-4f9f-81c3-abff9d0d88b8	Error ENOENT: no such file or directory, stat '/root/webDev/Course/ExpressJS/Intro/subdir/views/index.html'
+20230131	23:49:28	2414cad8-ba7f-497d-bba7-4ffae810d0f4	Error ENOENT: no such file or directory, stat '/root/webDev/Course/ExpressJS/Intro/subdir/views/index.html'
+20230131	23:50:07	788be09f-6203-49f2-a23c-90aca6ef2c85	Error ENOENT: no such file or directory, stat '/root/webDev/Course/ExpressJS/Intro/subdir/views/index.html'
+20230131	23:50:15	215f3e5b-e0d1-4009-835e-055593fed133	Error ENOENT: no such file or directory, stat '/root/webDev/Course/ExpressJS/Intro/subdir/views/index.html'
+20230131	23:50:25	d7ca929c-6559-413d-a508-6d45dc8de393	Error ENOENT: no such file or directory, stat '/root/webDev/Course/ExpressJS/Intro/subdir/views/test.html'
+20230201	13:18:36	d225ea20-dcc0-44ff-8c64-a7496844155a	TypeError Cannot read properties of undefined (reading 'firstname')
+20230201	13:19:14	c50d1634-fbe6-4815-88d9-7a28cea370ba	TypeError Cannot read properties of undefined (reading 'firstname')
+20230201	13:23:12	6f8842a0-7906-4f3c-97aa-ec0ac2fa665b	TypeError Cannot read properties of undefined (reading 'firstname')
+20230201	13:23:14	2a72643f-ff49-4c81-935c-05417749f2ac	TypeError Cannot read properties of undefined (reading 'firstname')
+20230201	13:24:13	135d9bb0-db9f-470a-a04e-02647050fea2	TypeError Cannot read properties of undefined (reading 'firstname')
+20230201	13:24:14	450819fa-6428-496d-aac0-6ccd94d400a5	TypeError Cannot read properties of undefined (reading 'firstname')
+20230201	13:24:14	208422f7-08f1-4dff-8662-426099b75a79	TypeError Cannot read properties of undefined (reading 'firstname')
+20230201	13:24:55	195cb872-520c-482b-8e33-32046ffe8c25	TypeError Cannot read properties of undefined (reading 'firstname')
+20230201	13:25:03	d77d8ccc-3262-4c79-94a6-4c8e644dfc75	TypeError Cannot read properties of undefined (reading 'firstname')
+20230201	13:26:55	eff6021b-ca9f-4121-a60c-5e88f029e295	TypeError Cannot read properties of undefined (reading 'id')
+20230201	13:29:08	c418a362-6ce1-47fe-b012-99f5b7601366	TypeError Cannot read properties of undefined (reading 'firstname')
+20230201	13:29:59	da4012aa-a6f4-49dc-a022-dd4f2e7163f9	TypeError Cannot read properties of undefined (reading 'id')
+20230201	13:30:59	378ad031-882d-49cc-9b30-caf101949867	TypeError Cannot read properties of undefined (reading 'id')
+20230201	13:31:00	880c0dda-1df7-4375-8d35-a8121071bf91	TypeError Cannot read properties of undefined (reading 'id')
+20230201	13:31:00	9cc5d8b7-ae2e-4c01-88e2-9571967936cb	TypeError Cannot read properties of undefined (reading 'id')
+20230201	13:31:01	56e8d6c8-c44e-4d8f-bde6-98b7273c65cc	TypeError Cannot read properties of undefined (reading 'id')
+20230201	13:31:01	ea8351bc-2240-4b6e-b31a-d15d256c6b83	TypeError Cannot read properties of undefined (reading 'id')
+20230201	13:59:49	b8ba9f71-6ebc-4043-bc06-b612f93f1873	TypeError Cannot read properties of undefined (reading 'firstname')
+20230201	13:59:50	9576970a-37cc-40e4-bb9e-f4187dca99f7	TypeError Cannot read properties of undefined (reading 'firstname')
+20230201	13:59:50	1926e11d-e157-4ff6-a39f-82a6f2474460	TypeError Cannot read properties of undefined (reading 'firstname')
+20230201	13:59:51	5dcc6554-51f9-4b0c-9082-cf774ae9a071	TypeError Cannot read properties of undefined (reading 'firstname')
+20230201	13:59:52	fb9ef5cc-9f54-48b2-afb0-928d6ce6936b	TypeError Cannot read properties of undefined (reading 'firstname')
+20230201	13:59:52	9c13b6fb-bc4b-40c1-bc91-196a20dec49e	TypeError Cannot read properties of undefined (reading 'firstname')
+20230201	14:00:14	3e189bb2-95a8-427d-bdc3-1a20010c19ba	TypeError req.accepted is not a function
+20230201	14:01:44	848419ca-5ada-4b09-bd78-abdd09255542	TypeError req.accepted is not a function
+20230201	14:01:46	2d6783a4-9a39-4fc8-95dd-c5a169cf0f67	TypeError req.accepted is not a function
+20230201	14:01:52	6a1470c0-2ec9-4346-a646-3e3dc7910caa	TypeError req.accepted is not a function
+20230201	14:06:06	33322ecf-4e95-426a-a549-35d9bdcec6a3	TypeError Cannot read properties of undefined (reading 'id')
+20230201	14:08:45	8dc9b43e-1f0a-4927-a19b-5633ef2f6141	TypeError Cannot read properties of undefined (reading 'id')
+20230201	14:08:52	424a697d-0ba5-4e1a-9403-e29ba01ed0d7	TypeError Cannot read properties of undefined (reading 'firstname')
+20230201	14:09:34	11268807-30b4-4ac2-b106-2000d5ae1fc8	TypeError Cannot read properties of undefined (reading 'firstname')
+20230201	14:09:35	43d4a54b-5303-497a-9e68-6be5a86ed133	TypeError Cannot read properties of undefined (reading 'firstname')
+20230201	14:09:35	f244e963-9233-430d-a9f0-1b6f20f483e3	TypeError Cannot read properties of undefined (reading 'firstname')
+20230201	14:09:35	2511c384-3bdf-4f9e-aa78-781f910aef90	TypeError Cannot read properties of undefined (reading 'firstname')
+20230201	14:09:39	05a8bf4b-40fc-420c-ba9b-c9d10d9597cd	TypeError Cannot read properties of undefined (reading 'firstname')
+20230201	14:09:39	f1e5327e-faef-4c6b-8fe7-0b7f7439e80d	TypeError Cannot read properties of undefined (reading 'firstname')
+20230201	14:09:39	8ddc59b7-8140-49a6-abc1-7c7a746a9c6d	TypeError Cannot read properties of undefined (reading 'firstname')
+20230201	14:09:39	18ae3ff5-ab91-4e2f-8ca6-15808e23c0d2	TypeError Cannot read properties of undefined (reading 'firstname')
