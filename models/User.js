@@ -11,12 +11,8 @@ const userSchema = new Schema({
       type: Number,
       default: 2001,
     },
-    Editor: {
-      type: Number,
-    },
-    Admin: {
-      type: Number,
-    },
+    Editor: Number,
+    Admin: Number,
   },
   password: {
     type: String,

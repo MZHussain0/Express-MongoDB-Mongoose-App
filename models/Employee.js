@@ -7,7 +7,7 @@ const employeeSchema = new Schema({
     required: true,
   },
   lastname: {
-    type: string,
+    type: String,
     required: true,
   },
 });
